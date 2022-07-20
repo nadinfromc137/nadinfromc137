@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=nadinfromc137&color=AB46D2)
+
 <!--
 **nadinfromc137/nadinfromc137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
