@@ -4,9 +4,9 @@
 
 I am Nadin, a graduated Computer Engineer, looking to work in software!
 
-- 🔭 I’m currently working on learning Angular for Front-End development
-- 💬 Ask me about basics of Machine Learning and Front-End
-- ❤ I'm passionate Machine Learning and Front-End Development
+- 🔭 I’m currently working on learning Angular for Front-End development and learning Data Science :)
+- 💬 Ask me about basics of Machine Learning, Front-End Development, and Computer Vision
+- ❤ I'm passionate Machine Learning, Front-End Development, and Computer Vision
 - ⭐ My favourite languages are C++, Python and TypeScript
 - 📫 How to reach me: email me at nadin.shanawany@gmail.com or shanawany.nadin@gmail.com
 - ⚡ Fun facts about me: I playe kickboxing and swimming, I love photography, and I have a cat that I absolutely love :)
