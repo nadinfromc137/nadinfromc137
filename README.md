@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nadinfromc137&color=AB46D2)
 
-I am Nadin, a graduated Computer Engineer, looking to work in software!
+I am Nadin, a Computer Engineer, looking to work in software!
 
 - 🔭 I’m currently working on learning Angular for Front-End development and learning Data Science :)
 - 💬 Ask me about basics of Machine Learning, Front-End Development, and Computer Vision
