@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nadinfromc137&color=AB46D2)
 
-I am Nadin, a Computer Engineering graduate!
+<!-- I am Nadin, a Computer Engineering graduate! -->
 
 <!--
 - 🔭 I’m currently working on learning Angular for Front-End development and learning Data Science :)
